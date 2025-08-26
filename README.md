@@ -1,34 +1,47 @@
-# All_Projects_Live_links
+# 🚀 My Projects Showcase  
 
-# 🚀 My Projects
+Here’s a collection of my web development projects built with **MERN Stack, React.js, and Core Web Technologies**.  
 
-# FULL STACK MERN PROJECTS
+---
 
-| Project Name   | Description | Live Demo |
-|----------------|-------------|-----------|
-| DreamSnap       | A collection of AI utilities like text, image, and code generation | [Live](https://dream-snap-amber.vercel.app/) |
-| Beatify         | A MERN-based music streaming web app where users can explore, play, and enjoy songs with a smooth and responsive UI | [Live](https://beatify-noman-frontend.vercel.app) |
-| Ecommerce - Noman  |  A complete MERN-based eCommerce platform with product listing, cart, user authentication, and order management features | [Live](https://full-stack-ecommerce-web-n4wm.vercel.app/) |
-| Vibe Blog App   | A full-stack blog app built with React, Vite, and Appwrite featuring authentication  and a fully responsive design. | [Live](https://noman-vibe-blog-app.vercel.app/) |
-
-# REACT PROJECTS
+## 🖥️ Full Stack MERN Projects  
 
 | Project Name   | Description | Live Demo |
 |----------------|-------------|-----------|
-| Agency.ai      | A fully responsive React.js website with smooth animations, dark/light mode, animated cursor effects, and a Web3-powered contact form | [Live](https://react-agency-noman.vercel.app) |
-| YourTube        | A responsive YouTube clone built with React, Tailwind CSS, and Vite, using YouTube Data API v3 for video search, playback, and category browsing.| [Live](https://your-tube-noman.vercel.app) |
-| MS WORD   | A React-based text editor with rich text formatting features, inspired by Microsoft Word, providing a clean and responsive writing experience. | [Live](https://game-react-ldwc.vercel.app/) |
- React Todo    |  A task management app built with React and Redux, allowing users to add, update, select, and delete todos with ease. | [Live](https://react-projects-696g.vercel.app/) |
-  Currency App    |  A React-based currency converter app that lets users check and convert exchange rates between different countries in real time. | [Live](https://react-projects-brown-phi.vercel.app/) |
- Noman - Ecommerce    |  A responsive e-commerce cart app built with React, Redux Toolkit, and Tailwind CSS, powered by the Fake Store API. Includes real-world cart features like add/remove items, quantity updates, dynamic pricing, and a clean UI. | [Live](https://noman-ecommerce.vercel.app/) |
- Men's Ecommerce   | A simple and responsive e-commerce website built with React.js showcasing product listings and a clean shopping experience. | [Live](https://ecommerce-web-react-coral.vercel.app/) |
+| **DreamSnap**  | AI utilities platform featuring text, image, and code generation. | [Live](https://dream-snap-amber.vercel.app/) |
+| **Beatify**    | MERN-based music streaming app with a responsive UI and smooth playback. | [Live](https://beatify-noman-frontend.vercel.app) |
+| **Ecommerce - Noman** | Complete MERN eCommerce app with product listing, cart, authentication & order management. | [Live](https://full-stack-ecommerce-web-n4wm.vercel.app/) |
+| **Vibe Blog App** | Full-stack blog app with authentication, built using React, Vite & Appwrite. | [Live](https://noman-vibe-blog-app.vercel.app/) |
 
-# HTML CSS JAVASCRIPT PROJECTS
+---
+
+## ⚛️ React Projects  
 
 | Project Name   | Description | Live Demo |
 |----------------|-------------|-----------|
-| Admin Dashboard   |  A modern and responsive admin dashboard built with HTML, CSS, and JavaScript, featuring analytics cards, tables, charts, and a clean UI for managing data. | [Live](https://admin-dashboard-pink-rho-33.vercel.app/) |
-| Netflix Clone        | A responsive Netflix-style UI built with HTML, CSS, and vanilla JavaScript for browsing and previewing movies. | [Live](https://noman-netflix-clone.vercel.app/) |
-| Facebook Clone       |A responsive Facebook-style social media UI built with HTML, CSS, and JavaScript, featuring login page, news feed, sidebar, and interactive design. | [Live](https://facebook-clone-noman.vercel.app/) |
+| **Agency.ai**  | Fully responsive React website with smooth animations, dark/light mode & Web3 contact form. | [Live](https://react-agency-noman.vercel.app) |
+| **YourTube**   | YouTube clone using React + Tailwind + YouTube Data API v3 for search & playback. | [Live](https://your-tube-noman.vercel.app) |
+| **MS Word**    | React-based text editor with formatting features, inspired by Microsoft Word. | [Live](https://game-react-ldwc.vercel.app/) |
+| **React Todo** | Task management app with Redux for CRUD operations. | [Live](https://react-projects-696g.vercel.app/) |
+| **Currency App** | Real-time currency converter with exchange rates. | [Live](https://react-projects-brown-phi.vercel.app/) |
+| **Noman Ecommerce** | Responsive eCommerce cart app with Redux Toolkit + Tailwind, powered by Fake Store API. | [Live](https://noman-ecommerce.vercel.app/) |
+| **Men's Ecommerce** | Simple, responsive shopping website built with React.js. | [Live](https://ecommerce-web-react-coral.vercel.app/) |
 
+---
 
+## 🌐 HTML, CSS & JavaScript Projects  
+
+| Project Name   | Description | Live Demo |
+|----------------|-------------|-----------|
+| **Admin Dashboard** | Modern dashboard UI with charts, tables & analytics cards. | [Live](https://admin-dashboard-pink-rho-33.vercel.app/) |
+| **Netflix Clone**   | Netflix-style UI using HTML, CSS & vanilla JS for browsing movies. | [Live](https://noman-netflix-clone.vercel.app/) |
+| **Facebook Clone**  | Responsive social media UI with login, feed & interactive design. | [Live](https://facebook-clone-noman.vercel.app/) |
+
+---
+
+## 🌟 Portfolio  
+
+🔗 Check out my complete portfolio here:  
+👉 [**My Portfolio Website**](https://noman-portfolio-five.vercel.app/)  
+
+---
