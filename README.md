@@ -25,7 +25,7 @@
 # HTML CSS JAVASCRIPT PROJECTS
 
 | Project Name   | Live Demo |
-|----------------|-------------|-----------|
-| Admin Dashboard       | [Live](https://admin-dashboard-pink-rho-33.vercel.app/) |
+|----------------|-----------|
+| Admin Dashboard  | [Live](https://admin-dashboard-pink-rho-33.vercel.app/) |
 | Facebook Noman        |   [Live](https://facebook-clone-noman.vercel.app) |
 | Netflix Clone   |  [Live](https://noman-netflix-clone.vercel.app/) |
