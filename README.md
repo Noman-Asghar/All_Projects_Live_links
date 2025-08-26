@@ -6,7 +6,7 @@
 
 | Project Name   | Description | Live Demo |
 |----------------|-------------|-----------|
-| DreamSnap       | A collection of AI utilities like text, image, and code generation | [Live](htts://dream-snap-backend.vercel.app) |
+| DreamSnap       | A collection of AI utilities like text, image, and code generation | [Live](https://dream-snap-backend.vercel.app) |
 | Beatify         | A MERN-based music streaming web app where users can explore, play, and enjoy songs with a smooth and responsive UI | [Live](https://beatify-noman-frontend.vercel.app) |
 | Blog App        |  A complete MERN-based eCommerce platform with product listing, cart, user authentication, and order management features | [Live](https://full-stack-ecommerce-web-n4wm.vercel.app/) |
 
