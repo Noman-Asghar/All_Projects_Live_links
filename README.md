@@ -8,7 +8,7 @@
 |----------------|-------------|-----------|
 | DreamSnap       | A collection of AI utilities like text, image, and code generation | [Live](https://dream-snap-amber.vercel.app/) |
 | Beatify         | A MERN-based music streaming web app where users can explore, play, and enjoy songs with a smooth and responsive UI | [Live](https://beatify-noman-frontend.vercel.app) |
-| Blog App        |  A complete MERN-based eCommerce platform with product listing, cart, user authentication, and order management features | [Live](https://full-stack-ecommerce-web-n4wm.vercel.app/) |
+| Ecommerce - Noman  |  A complete MERN-based eCommerce platform with product listing, cart, user authentication, and order management features | [Live](https://full-stack-ecommerce-web-n4wm.vercel.app/) |
 | Vibe Blog App   | A full-stack blog app built with React, Vite, and Appwrite featuring authentication  and a fully responsive design. | [Live](https://noman-vibe-blog-app.vercel.app/) |
 
 # REACT PROJECTS
