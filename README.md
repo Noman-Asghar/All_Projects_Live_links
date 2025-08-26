@@ -2,7 +2,7 @@
 
 # 🚀 My Projects
 
-# MERN PROJECTS
+# FULL STACK MERN PROJECTS
 
 | Project Name   | Description | Live Demo |
 |----------------|-------------|-----------|
