@@ -22,4 +22,10 @@
   Currency App    |  A React-based currency converter app that lets users check and convert exchange rates between different countries in real time. | [Live](https://react-projects-brown-phi.vercel.app/) |
  Noman - Ecommerce    |  A responsive e-commerce cart app built with React, Redux Toolkit, and Tailwind CSS, powered by the Fake Store API. Includes real-world cart features like add/remove items, quantity updates, dynamic pricing, and a clean UI. | [Live](https://noman-ecommerce.vercel.app/) |
 
+# HTML CSS JAVASCRIPT PROJECTS
 
+| Project Name   | Live Demo |
+|----------------|-------------|-----------|
+| Admin Dashboard       | [Live](https://admin-dashboard-pink-rho-33.vercel.app/) |
+| Facebook Noman        |   [Live](https://facebook-clone-noman.vercel.app) |
+| Netflix Clone   |  [Live](https://noman-netflix-clone.vercel.app/) |
