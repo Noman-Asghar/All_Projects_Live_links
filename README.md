@@ -16,6 +16,6 @@
 |----------------|-------------|-----------|
 | Agency.ai      | A fully responsive React.js website with smooth animations, dark/light mode, animated cursor effects, and a Web3-powered contact form  [Live](react-agency-noman.vercel.app) |
 | YourTube        | A responsive YouTube clone built with React, Tailwind CSS, and Vite, using YouTube Data API v3 for video search, playback, and category browsing.   | [Live](your-tube-noman.vercel.app) |
-| Vibe Blog App   | A full-stack blog app built with React, Vite, and Appwrite featuring authentication  and a fully responsive design. | [Live](https://noman-vibe-blog-app.vercel.app/profile) |
+| Vibe Blog App   | A full-stack blog app built with React, Vite, and Appwrite featuring authentication  and a fully responsive design. | [Live](https://noman-vibe-blog-app.vercel.app/) |
 
 
