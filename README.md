@@ -24,8 +24,10 @@
 
 # HTML CSS JAVASCRIPT PROJECTS
 
-| Project Name   | Live Demo |
-|----------------|-----------|
-| Admin Dashboard  | [Live](https://admin-dashboard-pink-rho-33.vercel.app/) |
-| Facebook Noman        |   [Live](https://facebook-clone-noman.vercel.app) |
-| Netflix Clone   |  [Live](https://noman-netflix-clone.vercel.app/) |
+| Project Name   | Description | Live Demo |
+|----------------|-------------|-----------|
+| Admin Dashboard   |  A modern and responsive admin dashboard built with HTML, CSS, and JavaScript, featuring analytics cards, tables, charts, and a clean UI for managing data. | [Live](https://admin-dashboard-pink-rho-33.vercel.app/) |
+| Netflix Clone        | A responsive Netflix-style UI built with HTML, CSS, and vanilla JavaScript for browsing and previewing movies. | [Live](https://noman-netflix-clone.vercel.app/) |
+| Facebook Clone       |A responsive Facebook-style social media UI built with HTML, CSS, and JavaScript, featuring login page, news feed, sidebar, and interactive design. | [Live](https://facebook-clone-noman.vercel.app/) |
+
+
