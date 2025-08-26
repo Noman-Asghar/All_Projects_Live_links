@@ -20,5 +20,6 @@
 | MS WORD   | A React-based text editor with rich text formatting features, inspired by Microsoft Word, providing a clean and responsive writing experience. | [Live](https://game-react-ldwc.vercel.app/) |
  React Todo    |  A task management app built with React and Redux, allowing users to add, update, select, and delete todos with ease. | [Live](https://react-projects-696g.vercel.app/) |
   Currency App    |  A React-based currency converter app that lets users check and convert exchange rates between different countries in real time. | [Live](https://react-projects-brown-phi.vercel.app/) |
+ Noman - Ecommerce    |  A responsive e-commerce cart app built with React, Redux Toolkit, and Tailwind CSS, powered by the Fake Store API. Includes real-world cart features like add/remove items, quantity updates, dynamic pricing, and a clean UI. | [Live](https://noman-ecommerce.vercel.app/) |
 
 
