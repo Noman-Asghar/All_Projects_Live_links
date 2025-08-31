@@ -11,7 +11,7 @@ Here’s a collection of my web development projects built with **MERN Stack, Re
 | **DreamSnap**  | AI utilities platform featuring text, image, and code generation. | [Live](https://dream-snap-amber.vercel.app/) |
 | **Beatify**    | MERN-based music streaming app with a responsive UI and smooth playback. | [Live](https://beatify-noman-frontend.vercel.app) |
 | **Ecommerce - Noman** | Complete MERN eCommerce app with product listing, cart, authentication & order management. | [Live](https://full-stack-ecommerce-web-n4wm.vercel.app/) |
-| **Vibe Blog App** | Full-stack blog app with authentication, built using React, Vite & Appwrite. | [Live](https://noman-vibe-blog-app.vercel.app/) |
+| **SnapGPT** | MERN-based AI platform where users can purchase plans via Stripe, generate text & images like ChatGPT, and explore a community page to view creations shared by other users. | [Live](https://snap-gpt-noman.vercel.app/) |
 
 ---
 
@@ -19,6 +19,7 @@ Here’s a collection of my web development projects built with **MERN Stack, Re
 
 | Project Name   | Description | Live Demo |
 |----------------|-------------|-----------|
+|**Vibe Blog App** | Full-stack blog app with authentication, built using React, Vite & Appwrite. | [Live](https://noman-vibe-blog-app.vercel.app/) |
 | **Agency.ai**  | Fully responsive React website with smooth animations, dark/light mode & Web3 contact form. | [Live](https://react-agency-noman.vercel.app) |
 | **YourTube**   | YouTube clone using React + Tailwind + YouTube Data API v3 for search & playback. | [Live](https://your-tube-noman.vercel.app) |
 | **MS Word**    | React-based text editor with formatting features, inspired by Microsoft Word. | [Live](https://game-react-ldwc.vercel.app/) |
