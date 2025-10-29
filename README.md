@@ -13,6 +13,7 @@ Here’s a collection of my web development projects built with **MERN Stack, Re
 | **Ecommerce - Noman** | Complete MERN eCommerce app with product listing, cart, authentication & order management. | [Live](https://full-stack-ecommerce-web-n4wm.vercel.app/) |
 | **SnapGPT** | MERN-based AI platform where users can purchase plans via Stripe, generate text & images like ChatGPT, and explore a community page to view creations shared by other users. | [Live](https://snap-gpt-noman.vercel.app/) |
 | **Revamp** | MERN-based portfolio and content management system with admin dashboard, blog, testimonials, and animated React frontend. | [Live](https://revamp-front.vercel.app/) |
+| **LinkUp** | MERN-based social media platform where users can update profiles, make friends, follow others, chat in real-time, and share stories. | [Live](https://link-up-frontend-psi.vercel.app/) |
 
 
 ---
